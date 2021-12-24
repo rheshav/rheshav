@@ -40,8 +40,7 @@ My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a
 
 Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
 
-Wanna reach me? It's very pleasure if you contact me via my email: ![alt text](mailto:rhesa.havilah@gmail.com 'Email')
-[rhesa.havilah@gmail.com](mailto:rhesa.havilah@gmail.com). Will gladly respond ASAP~
+Wanna reach me? It's very pleasure if you contact me via my ![Email](mailto:rhesa.havilah@gmail.com 'Email')
 
 <!--
 **rheshav/rheshav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
