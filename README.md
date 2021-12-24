@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/rheshav/rheshav/master/banner rheshav.jpg 'Header')](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/rheshav/rheshav/main/banner rheshav.jpg 'Header')](https://martinheinz.dev/)
 
 ### Nyahallo 👋
 
