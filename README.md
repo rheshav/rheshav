@@ -1,8 +1,10 @@
 [![Header](https://raw.githubusercontent.com/rheshav/rheshav/main/banner_rheshav.jpg 'Header')](https://martinheinz.dev/)
+<br />
 
 # Nyahallo <img width="50px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" />
 
 My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development. My career goals are joining & contributing to impactful project in startup company.
+<br />
 
 ## ⚡ Language & Technologies 🔧
 
@@ -18,6 +20,7 @@ My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a
 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+<br />
 
 ## &#x1f4c8; GitHub Stats
 
@@ -31,7 +34,7 @@ My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&title_color=58a6ff&text_color=f0f6fc&icon_color=2bbc8a&bg_color=0d1117&layout=compact" />
 </a>
 </p>
-
+<br />
 ## 🔭 Else
 
 Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
