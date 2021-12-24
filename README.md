@@ -1,14 +1,14 @@
 [![Header](https://raw.githubusercontent.com/rheshav/rheshav/main/banner_rheshav.jpg 'Header')](https://martinheinz.dev/)
 
-# Nyahallo <img src="https://raw.githubusercontent.com/rheshav/rheshav/main/wave.gif" width="30px">
+## Nyahallo <img src="https://raw.githubusercontent.com/rheshav/rheshav/main/wave.gif" width="30px">
 
 My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently join a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development. My career goal is to join impactful project in startup company.
 
-## &#x270d; Writing
+### &#x270d; Writing
 
 Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
 
-## 🔧 Language & Technologies
+### 🔧 Language & Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?&logo=CSS3)
@@ -22,6 +22,9 @@ Apart from coding, I also maintain a blog, Please come and enjoy reading at [myo
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 <!-- Testing features -->
+
+### &#x1f4c8; GitHub Stats
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rheshav&show_icons=true&theme=github_dark" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rheshav&theme=blueberry_duo" />
