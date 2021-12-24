@@ -2,10 +2,10 @@
 
 <!-- Testing features -->
 <a href="https://github.com/rheshav/rheshav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rheshav&show_icons=true&theme=github_dark&count_private=true" alt="Rheshav's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rheshav&show_icons=true&theme=github_dark&count_private=true&line_height=27" alt="Rheshav's GitHub Stats" />
 </a>
 <a href="https://github.com/rheshav/rheshav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&title_color=58a6ff&text_color=f0f6fc&icon_color=2bbc8a&bg_color=0d1117&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&title_color=58a6ff&text_color=f0f6fc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
 
 <!-- End of testing features -->
