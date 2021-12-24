@@ -4,12 +4,6 @@
 
 My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development. My career goal is to join & contribute to impactful project in startup company.
 
-Wanna reach me? It's very pleasure if you contact me via my email: [rhesa.havilah@gmail.com](mailto:rhesa.havilah@gmail.com). Will gladly respond ASAP~
-
-### &#x270d; Writing
-
-Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
-
 ### ⚡ Language & Technologies 🔧
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?&logo=HTML5)
@@ -22,6 +16,12 @@ Apart from coding, I also maintain a blog, Please come and enjoy reading at [myo
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+
+### 🔭 Else
+
+Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
+
+Wanna reach me? It's very pleasure if you contact me via my email: [rhesa.havilah@gmail.com](mailto:rhesa.havilah@gmail.com). Will gladly respond ASAP~
 
 <!-- Testing features -->
 
