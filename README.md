@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/rheshav/rheshav/main/banner_rheshav.jpg 'Header')](https://martinheinz.dev/)
 
-## Nyahallo <img src="https://raw.githubusercontent.com/rheshav/rheshav/main/wave.gif" width="30px">
+## Nyahallo <img src="https://raw.githubusercontent.com/rheshav/rheshav/main/wave.gif" width="20px">
 
 My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development. My career goals are joining & contributing to impactful project in startup company.
 
@@ -54,3 +54,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- credit
+1. bongo pang cat : https://codepen.io/carolineartz/pen/qBOEzQa
+ -->
