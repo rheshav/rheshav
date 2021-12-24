@@ -4,7 +4,7 @@
 
 My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development. My career goals are joining & contributing to impactful project in startup company.
 
-### ⚡ Language & Technologies 🔧
+## ⚡ Language & Technologies 🔧
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?&logo=CSS3)
@@ -17,7 +17,7 @@ My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
-### 🔭 Else
+## 🔭 Else
 
 Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
 
@@ -33,9 +33,10 @@ Wanna reach me? It's very pleasure if you contact me via my email: [rhesa.havila
 </p>
 
 <p align="center">
-<a href="https://github.com/rheshav/rheshav">
+<a width="49%" href="https://github.com/rheshav/rheshav">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&title_color=58a6ff&text_color=f0f6fc&icon_color=2bbc8a&bg_color=0d1117&layout=compact" />
 </a>
+<img width="49%" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" />
 </p>
 
 <!-- End of testing features -->
