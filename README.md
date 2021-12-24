@@ -3,7 +3,7 @@
 
 # Nyahallo <img width="50px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" />
 
-:man_in_tuxedo: My Name is Rhesa Havilah and I'm frontend developer wannabe !<br />
+:person_in_tuxedo: My Name is Rhesa Havilah and I'm frontend developer wannabe !<br />
 :light_bulb: Currently joined a bootcamp at [Eduwork](https://eduwork.id/) learning MERN Development.<br />
 :sparkles: My career goals are joining & contributing to impactful project in startup company.
 <br />
