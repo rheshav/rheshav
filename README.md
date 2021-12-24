@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Testing features -->
-<p align="center">
+<p align="center" style="padding:0 1rem">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rheshav&show_icons=true&theme=github_dark" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rheshav&theme=holi-theme" />
 </p>
