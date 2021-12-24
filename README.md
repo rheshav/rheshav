@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/rheshav/rheshav/main/banner_rheshav.jpg 'Header')](https://martinheinz.dev/)
 
-## Nyahallo <img width="30px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" />
+# Nyahallo <img width="50px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" />
 
 My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development. My career goals are joining & contributing to impactful project in startup company.
 
@@ -36,7 +36,6 @@ Wanna reach me? It's very pleasure if you contact me via my email: [rhesa.havila
 <a width="49%" href="https://github.com/rheshav/rheshav">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&title_color=58a6ff&text_color=f0f6fc&icon_color=2bbc8a&bg_color=0d1117&layout=compact" />
 </a>
-<img width="20%" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" />
 </p>
 
 <!-- End of testing features -->
