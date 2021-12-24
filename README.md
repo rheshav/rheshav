@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/rheshav/rheshav/main/banner_rheshav.jpg 'Header')](https://martinheinz.dev/)
 
-### Nyahallo 👋
+# Nyahallo <img src="https://raw.githubusercontent.com/rheshav/rheshav/main/wave.gif" width="30px">
 
 <!-- Testing features -->
 <p align="center">
