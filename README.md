@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rheshav&show_icons=true&theme=github_dark&count_private=true" alt="Rheshav's GitHub Stats" />
 </a>
 <a href="https://github.com/rheshav/rheshav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&title_color=58a6ff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&title_color=58a6ff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&show_icons=true" />
 </a>
 
 <a href="https://github.com/rheshav/rheshav">
