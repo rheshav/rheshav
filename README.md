@@ -35,7 +35,7 @@ My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a
 </a>
 </p>
 
-## 🔭 Else <img width="50px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/miko-sd.gif" />
+## 🔭 Else
 
 Apart from coding, I also maintain a blog, Please come and enjoy reading at [My Website](https://www.myoui-leaf.id/ 'myoui-leaf.id').
 
