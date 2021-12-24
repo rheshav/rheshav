@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 <!-- Testing features -->
-<a href="https://github.com/rheshav/rheshav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rheshav&show_icons=true&theme=github_dark&count_private=true&line_height=27" alt="Rheshav's GitHub Stats" />
-</a>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rheshav&show_icons=true&theme=github_dark" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rheshav&theme=github_dark" />
+</p>
+<br />
 <a href="https://github.com/rheshav/rheshav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&title_color=58a6ff&text_color=f0f6fc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
