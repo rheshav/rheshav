@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!-- Testing features -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rheshav&theme=github_dark&show_icons=true">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rheshav&theme=github_dark&show_icons=true"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&layout=compact)](https://github.com/rheshav/github-readme-stats&theme=github_dark)
 
