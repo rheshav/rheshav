@@ -40,7 +40,6 @@ My career goals are joining & contributing to impactful project in startup compa
 ## 🔭 Else
 
 Apart from coding, I also maintain a blog, Please come and enjoy reading at [My Website](https://www.myoui-leaf.id/ 'myoui-leaf.id').
-
 Wanna reach me? It's very pleasure if you contact me via my [Email](mailto:rhesa.havilah@gmail.com 'rhesa.havilah@gmail.com').
 
 <!--
