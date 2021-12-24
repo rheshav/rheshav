@@ -2,6 +2,8 @@
 
 <!-- Testing features -->
 
+![Rheshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheshav&theme=github_dark&show_icons=true)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rheshav&left_color=green&right_color=red)
 
 <!-- End of testing features -->
