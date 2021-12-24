@@ -17,15 +17,7 @@ My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
-## 🔭 Else
-
-Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
-
-Wanna reach me? It's very pleasure if you contact me via my email: [rhesa.havilah@gmail.com](mailto:rhesa.havilah@gmail.com). Will gladly respond ASAP~
-
-<!-- Testing features -->
-
-### &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rheshav&show_icons=true&theme=github_dark" />
@@ -38,7 +30,11 @@ Wanna reach me? It's very pleasure if you contact me via my email: [rhesa.havila
 </a>
 </p>
 
-<!-- End of testing features -->
+## 🔭 Else
+
+Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
+
+Wanna reach me? It's very pleasure if you contact me via my email: [rhesa.havilah@gmail.com](mailto:rhesa.havilah@gmail.com). Will gladly respond ASAP~
 
 <!--
 **rheshav/rheshav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
