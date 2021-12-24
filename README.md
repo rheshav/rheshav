@@ -4,7 +4,7 @@
 
 My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development. My career goal is to join & contribute to impactful project in startup company.
 
-Wanna reach me? It's very pleasure if you contact me via [Email](rhesa.havilah@gmail.com). Will respond ASAP~
+Wanna reach me? It's very pleasure if you contact me via [Email](mailto:rhesa.havilah@gmail.com). Will respond ASAP~
 
 ### &#x270d; Writing
 
