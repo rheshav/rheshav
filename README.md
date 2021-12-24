@@ -2,13 +2,15 @@
 
 ## Nyahallo <img src="https://raw.githubusercontent.com/rheshav/rheshav/main/wave.gif" width="30px">
 
-My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently join a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development. My career goal is to join impactful project in startup company.
+My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development. My career goal is to join & contribute to impactful project in startup company.
+
+Wanna reach me? It's very pleasure if you contact me via [Email](rhesa.havilah@gmail.com). Will respond ASAP~
 
 ### &#x270d; Writing
 
 Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
 
-### 🔧 Language & Technologies
+### ⚡ Language & Technologies 🔧
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?&logo=CSS3)
