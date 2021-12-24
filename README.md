@@ -3,7 +3,7 @@
 <!-- Testing features -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rheshav&show_icons=true&theme=github_dark" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rheshav&theme=holi-theme" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rheshav&theme=blueberry_duo" />
 </p>
 
 <p align="center">
