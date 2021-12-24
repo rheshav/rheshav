@@ -3,7 +3,9 @@
 
 # Nyahallo <img width="50px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" />
 
-My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a bootcamp at [Eduwork](https://eduwork.id/) learning MERN Development. My career goals are joining & contributing to impactful project in startup company.
+My Name is Rhesa Havilah and I'm frontend developer wannabe !
+Currently joined a bootcamp at [Eduwork](https://eduwork.id/) learning MERN Development.
+My career goals are joining & contributing to impactful project in startup company.
 <br />
 
 ## ⚡ Language & Technologies 🔧
