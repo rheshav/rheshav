@@ -2,11 +2,19 @@
 
 # Nyahallo <img src="https://raw.githubusercontent.com/rheshav/rheshav/main/wave.gif" width="30px">
 
-My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently join a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development.
+My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently join a bootcamp at [Eduwork.id](https://eduwork.id/) learning MERN Development. My career goal is to join impactful project in startup company.
 
-## &#x270d; Blog & Writing
+## &#x270d; Writing
 
 Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
+
+## 🔧 Language & Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=MongoDB)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 <!-- Testing features -->
 <p align="center">
