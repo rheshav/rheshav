@@ -10,8 +10,13 @@ Apart from coding, I also maintain a blog, Please come and enjoy reading at [myo
 
 ## 🔧 Language & Technologies
 
+![HTML5](https://img.shields.io/badge/html5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/css3-000?&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000?&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=MongoDB)
+![Express.js](https://img.shields.io/badge/express.js-000?&logo=Express.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
