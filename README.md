@@ -34,9 +34,8 @@ My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&title_color=58a6ff&text_color=f0f6fc&icon_color=2bbc8a&bg_color=0d1117&layout=compact" />
 </a>
 </p>
-<br />
 
-## 🔭 Else
+## 🔭 Else <img width="50px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/miko-sd.gif" />
 
 Apart from coding, I also maintain a blog, Please come and enjoy reading at [My Website](https://www.myoui-leaf.id/ 'myoui-leaf.id').
 
