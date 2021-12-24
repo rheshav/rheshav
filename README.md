@@ -35,6 +35,7 @@ My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a
 </a>
 </p>
 <br />
+
 ## 🔭 Else
 
 Apart from coding, I also maintain a blog, Please come and enjoy reading at [myoui-leaf.id](https://myoui-leaf.id/).
