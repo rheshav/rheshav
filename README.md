@@ -1,14 +1,16 @@
 ### Hi there 👋
 
 <!-- Testing features -->
-<p align="center" style="padding:0 1rem">
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rheshav&show_icons=true&theme=github_dark" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rheshav&theme=holi-theme" />
 </p>
 <br />
+<p align="center">
 <a href="https://github.com/rheshav/rheshav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheshav&title_color=58a6ff&text_color=f0f6fc&icon_color=2bbc8a&bg_color=0d1117&layout=compact" />
 </a>
+</p>
 
 <!-- End of testing features -->
 
