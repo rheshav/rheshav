@@ -3,9 +3,9 @@
 
 # Nyahallo <img width="50px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" />
 
-My Name is Rhesa Havilah and I'm frontend developer wannabe !<br />
-Currently joined a bootcamp at [Eduwork](https://eduwork.id/) learning MERN Development.<br />
-My career goals are joining & contributing to impactful project in startup company.
+:man_in_tuxedo: My Name is Rhesa Havilah and I'm frontend developer wannabe !<br />
+:light_bulb: Currently joined a bootcamp at [Eduwork](https://eduwork.id/) learning MERN Development.<br />
+:sparkles: My career goals are joining & contributing to impactful project in startup company.
 <br />
 
 ## ⚡ Language & Technologies 🔧
@@ -37,10 +37,10 @@ My career goals are joining & contributing to impactful project in startup compa
 </a>
 </p>
 
-## 🔭 Else
+## :video_game: Else
 
 :writing_hand: Apart from coding, I also maintain a blog, Please come and enjoy reading at [My Website](https://www.myoui-leaf.id/ 'myoui-leaf.id').</br>
-Wanna reach me? It's very pleasure if you contact me via my [Email](mailto:rhesa.havilah@gmail.com 'rhesa.havilah@gmail.com').
+:call_me_hand: Wanna reach me? It's very pleasure if you contact me via my [Email](mailto:rhesa.havilah@gmail.com 'rhesa.havilah@gmail.com').
 
 <!--
 **rheshav/rheshav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
