@@ -10,10 +10,12 @@ My Name is Rhesa Havilah and I'm frontend developer wannabe ! Currently joined a
 ![CSS3](https://img.shields.io/badge/CSS3-000?&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=MongoDB)
 ![Express.js](https://img.shields.io/badge/Express.js-000?&logo=express)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
