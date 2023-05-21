@@ -1,7 +1,8 @@
 [![Header](https://raw.githubusercontent.com/rheshav/rheshav/main/banner_rheshav.jpg 'Header')](https://martinheinz.dev/)
 <br />
 
-# Nyahallo <img width="50px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" />
+# Nyahallo
+<!-- <img width="50px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" /> -->
 
 :person_in_tuxedo: My Name is Rhesa Havilah and I'm frontend developer wannabe !<br />
 :books: interested in MERN Developing Project <br />
