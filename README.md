@@ -4,7 +4,7 @@
 # Nyahallo <img width="50px" src="https://raw.githubusercontent.com/rheshav/rheshav/main/mumei.gif" />
 
 :person_in_tuxedo: My Name is Rhesa Havilah and I'm frontend developer wannabe !<br />
-:books: Currently learning MERN Development at [Eduwork](https://eduwork.id/).<br />
+:books: interested in MERN Developing Project <br />
 :sparkles: My career goal is contributing to the impactful projects in startup company.
 <br />
 
