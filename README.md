@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/rheshav/rheshav/main/banner_rheshav_soft.jpg 'Header')](https://github.com/rheshav?tab=repositories)
+[![Header](https://raw.githubusercontent.com/rheshav/rheshav/main/banner_rheshav_soft.png 'Header')](https://github.com/rheshav?tab=repositories)
 <br />
 
 # Nyahallo
